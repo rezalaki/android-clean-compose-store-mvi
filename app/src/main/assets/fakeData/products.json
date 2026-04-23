@@ -1,0 +1,79 @@
+[
+  {
+    "id": 100,
+    "brand_id": 1,
+    "title": "TUF Gaming A15 FA507NUR",
+    "detail": "R7 7435HS-16GB DDR5-1TB",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/5fb7326252e0d6f9f6463b05f047497314be7caa_1724415233.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 200,
+    "brand_id": 4,
+    "title": "iPhone 16 CH",
+    "detail": "Dual SIM Storage 128GB And RAM 8GB",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/5af568b4909435c6a215ad5e728e902db234b673_1736597759.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 300,
+    "brand_id": 2,
+    "title": "Xiaomi Redmi Note 14 4G Dual SIM",
+    "detail": "Storage 256GB And RAM 8GB",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/c0a7ce006d11c222bce16bd3cdd8d79aeb6689bc_1738134271.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 400,
+    "brand_id": 5,
+    "title": "Asus Vivobook 15 F1504ZA",
+    "detail": "i3 1215U-8GB DDR4-512GB SSD-TN-Backlit 15.6",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/6f2b948b2871a862816e6412f316bdc743dfac02_1734001816.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 500,
+    "brand_id": 1,
+    "title": "Samsung Galaxy S25 Ultra Dual SIM",
+    "detail": "256GB And 12GB RAM Mobile Phone - Vietnam Pack",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/b898a97a346068c4f8e95cc9c7cfdf2b5f700e3f_1738145246.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 600,
+    "brand_id": 3,
+    "title": "Sony VAIO Fit 15E",
+    "detail": "Intel Core i5 - 4GB - 256HDD",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/98ee35168ccdecda284421e2806235909ea8a30f_1676290164.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 700,
+    "brand_id": 7,
+    "title": "Dell Vostro 3520",
+    "detail": "i7 1255U-16GB DDR4-500GB SSD-IPS 120Hz",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/46e2412670144bcb5d5cccf889326f12a97753dd_1718700322.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 800,
+    "brand_id": 6,
+    "title": "Victus 15 Gaming FA1082wm",
+    "detail": "i5 13420H-16GB DDR4-512GB SSD",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/6ac95f2a849d0ce48f3bc30bf02794b0c24eaafe_1735158317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 900,
+    "brand_id": 6,
+    "title": "Victus 15 Gaming FA10000",
+    "detail": "i5 12000H-8GB DDR4-256GB SSD",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/6ac95f2a849d0ce48f3bc30bf02794b0c24eaafe_1735158317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 1000,
+    "brand_id": 6,
+    "title": "Victus 15 Gaming FA30000",
+    "detail": "i7 14000H-8GB DDR4-1TB SSD",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/6ac95f2a849d0ce48f3bc30bf02794b0c24eaafe_1735158317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "id": 1100,
+    "brand_id": 6,
+    "title": "Victus 15 Gaming FB5000",
+    "detail": "R7 10000H-12GB DDR4-512GB SSD M2",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/6ac95f2a849d0ce48f3bc30bf02794b0c24eaafe_1735158317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  }
+]

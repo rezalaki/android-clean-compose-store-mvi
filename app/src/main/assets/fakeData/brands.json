@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung",
+    "logoUrl": "https://www.technolife.com/image/banner_BrandBanners_BBs0PS_6bf4becd-f428-4326-9808-be3434837c83.png"
+  },
+  {
+    "id": 2,
+    "title": "Xiaomi",
+    "logoUrl": "https://xiaomixiaomi.ir/uploads/image/rootimage/284/a3a9ff31c5f3945b09effdf139f13081.png?w=200&h=200"
+  },
+  {
+    "id": 3,
+    "title": "Sony",
+    "logoUrl": "https://www.technolife.com/image/banner_BrandBanners_0E0mGk_aff5d3ed-9b24-4ea4-8b0c-5d3949be06d3.png"
+  },
+  {
+    "id": 4,
+    "title": "Apple",
+    "logoUrl": "https://www.technolife.com/image/banner_BrandBanners_yqE3hH_1a75ca9e-c20c-4ec2-9557-5e55e803138f.png"
+  },
+  {
+    "id": 5,
+    "title": "Asus",
+    "logoUrl": "https://www.technolife.com/image/banner_BrandBanners_bWAkhn_e0514e1f-9e2f-493e-a8b3-00db541c98e9.png"
+  },
+  {
+    "id": 6,
+    "title": "HP",
+    "logoUrl": "https://avaneed.com/wp-content/uploads/2024/09/HP-logo.webp"
+  },
+  {
+    "id": 7,
+    "title": "LG",
+    "logoUrl": "https://www.technolife.com/image/banner_BrandBanners_Ox33Xi_2b532dfb-3989-46d4-8d2d-b2c5b1e701fb.png"
+  },
+  {
+    "id": 8,
+    "title": "Huawei",
+    "logoUrl": "https://www.technolife.com/image/banner_BrandBanners_9Qpb1k_541f8b8f-dfd3-488a-b02e-0960593c7860.png"
+  }
+]
